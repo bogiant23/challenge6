@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bogiant",
+    "password": "coba12345",
+    "database": "chapter6",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "bogiant",
+    "password": "coba12345",
+    "database": "chapter6",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "bogiant",
+    "password": "coba12345 ",
+    "database": "chapter6",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
